@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Misc on keegan burke</title>
+    <link>http://localhost:1313/tags/misc/</link>
+    <description>Recent content in Misc on keegan burke</description>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌎 Hello world!</title>
+      <link>http://localhost:1313/posts/helloworld/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <description>&lt;p&gt;This is my first ever blog post. Probably not worth reading, or even writing for that matter - but we all have to start somewhere. I&amp;rsquo;m not even entirely sure what my intent is with this website. I&amp;rsquo;m hopeful that it will eventually evolve into a sort of learning journal. A place to hone my understanding of topics that interest me by attempting to distill and teach them to others, as well as a place that I can look back at for instructions, should I forget some of those lessons that I fought so hard to learn.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
